@@ -1,0 +1,6 @@
+/* SupplierList.css */
+.supplier-image-container {
+    width: 100%; /* Set the desired width */
+    height: 250px; /* Set the desired height */
+    overflow: hidden; 
+  }

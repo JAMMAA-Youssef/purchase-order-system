@@ -1,0 +1,22 @@
+{
+  "supplier_spending": [
+    {
+      "supplier_name": "Puma",
+      "total_spending": 1800.0
+    },
+    {
+      "supplier_name": "Addidas",
+      "total_spending": 3000.0
+    }
+  ],
+  "product_quantities": [
+    {
+      "product_name": "Shoes2",
+      "total_quantity": 10
+    },
+    {
+      "product_name": "Shoes1",
+      "total_quantity": 9
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+/* In your stylesheet */
+.product-image-container {
+    width: 100%; /* Or a fixed width like 200px */
+    height: 250px; /* Let the height adjust automatically */
+    overflow: hidden; /* Hide any overflow that might occur */
+  }
